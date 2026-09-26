@@ -14,7 +14,7 @@ The company provides:
 * Data Dashboards
 * Digital Marketing
 
-## 🎯 Business Objective
+##  Business Objective
 
 The objective is to help a sales team:
 
@@ -26,13 +26,13 @@ The objective is to help a sales team:
 * Track lead engagement
 * Support data-driven sales decisions
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Power BI
 * GitHub
 
-## 📊 Project Workflow
+##  Project Workflow
 
 **Lead Data → Lead Scoring → CRM Pipeline → Sales Analytics → Power BI Dashboard → Business Insights**
 
@@ -103,7 +103,7 @@ Created an interactive dashboard containing:
 * Pipeline Value by Industry
 * Lead Engagement Status
 
-## 💡 Business Insights
+##  Business Insights
 
 The dashboard can be used to:
 
@@ -114,7 +114,7 @@ The dashboard can be used to:
 * Compare pipeline value across industries
 * Improve follow-up prioritization based on engagement
 
-## 📈 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 ### Excel
 
@@ -146,23 +146,13 @@ The dashboard can be used to:
 * KPI development
 * Business recommendations
 
-## 📁 Project Structure
-
-```text
-B2B-Lead-Intelligence-System/
-│
-├── B2B_Lead_Intelligence_System.xlsx
-├── PowerBI_Dashboard.pbix
-└── README.md
-```
-
-## ⚠️ Data Disclaimer
+## Data Disclaimer
 
 This project uses **100% synthetic data** created for educational and portfolio purposes.
 
 No real customer, company, contact, or business data is used.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential future enhancements include:
 
@@ -174,6 +164,6 @@ Potential future enhancements include:
 * Advanced Power BI measures using DAX
 * Real-time sales reporting
 
-## 👤 Project Type
+##  Project Type
 
 **Portfolio Project | Business Analytics | Sales Operations | Business Development**
